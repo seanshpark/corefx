@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "Microsoft.NETCore.Platforms": "1.0.1-rc3-23816",
-    "Microsoft.NETCore.TestHost": "1.0.0-rc3-23816",
-    "Microsoft.NETCore.Console": "1.0.0-rc3-23816",
-    "System.IO.Compression": "4.1.0-rc3-23816",
+    "Microsoft.NETCore.Platforms": "1.0.1-rc3-23818",
+    "Microsoft.NETCore.TestHost": "1.0.0-rc3-23818",
+    "Microsoft.NETCore.Console": "1.0.0-rc3-23818",
+    "System.IO.Compression": "4.1.0-rc3-23818",
     "coveralls.io": "1.4",
     "OpenCover": "4.6.519",
     "ReportGenerator": "2.4.3",
@@ -25,6 +25,6 @@
     "osx.10.10-x64": {},
     "centos.7-x64": {},
     "rhel.7-x64": {},
-    "debian.8.2-x64": {}
+    "debian.8-x64": {}
   }
 }
