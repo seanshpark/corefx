@@ -310,6 +310,10 @@ while :; do
             __ClangMajorVersion=3
             __ClangMinorVersion=7
             ;;
+        clang3.8)
+            __ClangMajorVersion=3
+            __ClangMinorVersion=8
+            ;;
         freebsd)
             __BuildOS=FreeBSD
             __TestNugetRuntimeId=osx.10.10-x64
